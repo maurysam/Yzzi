@@ -1,6 +1,6 @@
 {
-    "channels"
-            {
+    "channels":{
+            
               "name": "La 1",
               "web": "https://www.rtve.es/directo/la-1/",
               "logo": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",

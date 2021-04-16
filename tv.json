@@ -1,7 +1,8 @@
 {
 "license": {
-    "source": "https://github.com/LaQuay/TDTChannels"
-    "channels":{
+    "source": "https://github.com/maurysam/Yzzi"
+   }
+ "channels":{
             
               "name": "La 1",
               "web": "https://www.rtve.es/directo/la-1/",
